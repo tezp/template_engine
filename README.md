@@ -1,5 +1,9 @@
 # Template Engine :
 
+0. Install required pip packages.
+```bash
+  pip3 install -r requirements.txt
+```
 1. Run seperate store_system_template.py file to store templates.
 ```bash
   python3 store_system_template.py
